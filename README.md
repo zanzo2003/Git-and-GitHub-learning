@@ -1,6 +1,6 @@
 <h1>Git</h1>
 
-<h3>__Important Terminologies in GIT__</h3>
+<h3><b>Important Terminologies in GIT</b></h3>
 
 <h5>directory -> file.</h5>
 <h5>terminal or commnad line -> interface for text commnads.</h5>
