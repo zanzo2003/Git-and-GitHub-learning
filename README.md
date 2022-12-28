@@ -1,4 +1,4 @@
-#Git 
+<h1>Git</h1>
 
 Important Terminologies in GIT
 
