@@ -1,10 +1,10 @@
 <h1>Git</h1>
 
-__Important Terminologies in GIT__
+<h3>__Important Terminologies in GIT__</h3>
 
-directory -> file./n
-terminal or commnad line -> interface for text commnads./n
-CLI -> command line interface./n
-code editor -> word processor for writing code./n 
-cd -> change directory./n
-Repository -> project/file which contains your porject./n
+<h5>directory -> file.</h5>
+<h5>terminal or commnad line -> interface for text commnads.</h5>
+<h5>CLI -> command line interface.</h5>
+<h5>code editor -> word processor for writing code.</h5>
+<h5>cd -> change directory.</h5>
+<h5>Repository -> project/file which contains your porject.</h5>
