@@ -1,8 +1,10 @@
 <h1>Git</h1>
 
-<h3><b>Important Terminologies in GIT</b></h3>
+<h2>Important Terminologies in GIT</h2>
 
-<h5>directory -> file.</h5>
+<ul>
+<li>directory -> file.</li>
+</ul>
 <h5>terminal or commnad line -> interface for text commnads.</h5>
 <h5>CLI -> command line interface.</h5>
 <h5>code editor -> word processor for writing code.</h5>
