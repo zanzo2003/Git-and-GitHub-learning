@@ -2,14 +2,14 @@
 
 ## Important Terminologies in GIT 
  
->> Directory -> file.
- >>Terminal / commandline -> Interface for text commands
- >>CLI -> Commnad line interface
+ >>-Directory -> file.
+ >>-Terminal / commandline -> Interface for text commands
+ >>-CLI -> Commnad line interface
  
 ## Few inportant terminal commands 
 
-  >>cd -> change directory (to change your dorectory)
-  >>pwd -> print working directory (to show the directory you are in)
+  >>-cd -> change directory (to change your dorectory)
+  >>-pwd -> print working directory (to show the directory you are in)
   >>ls -> list (to show all the file in the user)
   >>wc -> word count (used to see the space used by file)
   
