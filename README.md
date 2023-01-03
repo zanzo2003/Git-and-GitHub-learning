@@ -2,9 +2,9 @@
 
 ## Important Terminologies in GIT 
  
- >>-Directory -> file.
- >>-Terminal / commandline -> Interface for text commands
- >>-CLI -> Commnad line interface
+-Directory -> file.
+-Terminal / commandline -> Interface for text commands
+-CLI -> Commnad line interface
  
 ## Few inportant terminal commands 
 
